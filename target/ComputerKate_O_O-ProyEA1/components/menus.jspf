@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %> 
+
+<div class="cat-links">
+    <a href="IndexServlet">Inicio</a>
+    <a href="ProductoServlet">Productos</a>
+    <a href="CategoriaServlet">Categorías</a>
+    <a href="NosotrosServlet">Nosotros</a>
+    <a href="formpagos">Pagos</a>
+</div>
